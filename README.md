@@ -188,5 +188,5 @@ At each lambda,
 are contained. XX signifies different initial structures. Note that the initial box length is 300 angs. x 300 angs. x 300 angs. for all the structures.
 
 ## Reference
-Y. Nara, K. Kasahara*, K. Yagi, K. KIm, N. Matubayasi, H. Kawakami, and M. Tanaka*, under revision.
+Y. Nara, K. Kasahara*, K. Yagi, K. Kim, N. Matubayasi, H. Kawakami, and M. Tanaka*, ACS Appl. Polym. Mater., in press (2025). doi:[10.1021/acsapm.5c03130](https://pubs.acs.org/doi/10.1021/acsapm.5c03130).
 
